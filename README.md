@@ -1,1 +1,1 @@
-Tellki OS X Memory Monitor
+Tellki OSX Memory Monitor
